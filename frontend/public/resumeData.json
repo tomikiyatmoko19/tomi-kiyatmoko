@@ -1,0 +1,109 @@
+{
+  "main": {
+    "name": "Tomi Kiyatmoko",
+    "occupation": "Beginer at Learn Front End Developer",
+    "description": "Never Stop to Studying",
+    "image": "Tomi.jpg",
+    "bio": "1 year of work experience as freelancer at web wordpress, 1 year of work experience as a 2D illustrator in superkidz magazine and 1 month of experience having an internship at PT.Telecommunications Indonesia as an Optima Maintenance access that is checking the state of optical fiber, fiber optic cable installation and data management of optical fiber devices in the field.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "tomi.kiyatmoko19@gmail.com",
+    "phone": "+6285832898511",
+    "address": {
+      "street": "Mandiri Street No. 33 RT 05 RW 02",
+      "city": "Muara Enim",
+      "state": "Sumatera Selatan",
+      "zip": "31171"
+    },
+    "website": "https://drive.google.com/file/d/131H3-l7PW3C4Q5KMK0c3-8OFMF8MAiZV/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/131H3-l7PW3C4Q5KMK0c3-8OFMF8MAiZV/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/Tomeikya/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tomi-kiyatmoko-292639149?originalSubdomain=id",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/tomi.kiyatmoko/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/tomikiyatmoko19",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Im still need to learn more",
+    "education": [
+      {
+        "school": "University of Sriwijaya",
+        "degree": "Bachelor's Degree, Computer Enginerring",
+        "graduated": "December 2019",
+        "description": "IPK 3.11"
+      }
+    ],
+    "work": [
+      {
+        "company": "PT.Telekomunikasi Indonesia Tbk",
+        "title": "Access Maintenance Optima",
+        "years": "December 2018 - January 2019",
+        "description": "Internship"
+      },
+      {
+        "company": "Majalah Anak Superkidz",
+        "title": "Graphic Design/2D Illustrator (Remote Work)",
+        "years": "April 2017 - December 2018",
+        "description": "Halftime work"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "95%"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "All Office",
+        "level": "95%"
+      },
+      {
+        "name": "Node.js",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Info Sepak Bola Italia",
+        "category": "PWA Web",
+        "image": "italia.jpg",
+        "url": "https://info-sepak-bola-italia.web.app/"
+      },
+      {
+        "title": "Pantau Korona",
+        "category": "Beginner with Webpack",
+        "image": "images.jpg",
+        "url": "https://pantaucorona.herokuapp.com/"
+      }
+    ]
+  }
+}
